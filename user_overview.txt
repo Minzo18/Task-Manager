@@ -1,0 +1,50 @@
+
+USER OVERVIEW REPORT
+
+Total number of users registered:	7
+Total number of tasks:			9
+
+USERNAME: admin
+Total tasks assigned:			2
+Percentage of tasks assigned:		22.22%
+Percentage of tasks completed:		50.0%
+Percentage of tasks incomplete:		50.0%
+Percentage of tasks overdue:		50.0%
+
+USERNAME: test
+Total tasks assigned:			3
+Percentage of tasks assigned:		33.33%
+Percentage of tasks completed:		66.67%
+Percentage of tasks incomplete:		33.33%
+Percentage of tasks overdue:		33.33%
+
+USERNAME: user
+No tasks assigned to user.
+
+USERNAME: abcd
+Total tasks assigned:			1
+Percentage of tasks assigned:		11.11%
+Percentage of tasks completed:		0.0%
+Percentage of tasks incomplete:		100.0%
+Percentage of tasks overdue:		0.0%
+
+USERNAME: user1
+Total tasks assigned:			1
+Percentage of tasks assigned:		11.11%
+Percentage of tasks completed:		0.0%
+Percentage of tasks incomplete:		100.0%
+Percentage of tasks overdue:		0.0%
+
+USERNAME: user2
+Total tasks assigned:			1
+Percentage of tasks assigned:		11.11%
+Percentage of tasks completed:		0.0%
+Percentage of tasks incomplete:		100.0%
+Percentage of tasks overdue:		100.0%
+
+USERNAME: hyperion
+Total tasks assigned:			1
+Percentage of tasks assigned:		11.11%
+Percentage of tasks completed:		0.0%
+Percentage of tasks incomplete:		100.0%
+Percentage of tasks overdue:		0.0%

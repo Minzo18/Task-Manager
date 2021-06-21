@@ -1,0 +1,9 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 30 Sep 2021, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 30 Apr 2021, No
+test, program test, Test the features of this program to see that everything works as expected., 17 May 2021, 30 May 2021, No
+test, Test updates, Test the new system updates, 01 Jun 2021, 30 Jun 2021, Yes
+abcd, Check Letters, Check the letters of the alphabet, 01 Jun 2021, 10 Aug 2021, No
+user1, Call Suppliers, Order new stock from suppliers., 03 Jun 2021, 10 Jun 2021, No
+user2, Deliveries, Deliver to customers., 03 Jun 2021, 02 Jun 2021, No
+hyperion, Train Students, Teach students how to code., 03 Jun 2021, 31 Dec 2021, No
+test, Check system health, Check if all systems are running properly., 03 Jun 2021, 30 May 2021, Yes
