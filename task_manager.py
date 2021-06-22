@@ -249,14 +249,14 @@ def view_mine(username, usernames, title, description, date_assigned, due_date, 
                     else:
                         print("\nThis task has already been completed and cannot be edited.")
                             
-                #If the user enters -1, return to the main menu
-                elif int(task_num) == -1:
-                    return()
-
                 #If the user enters a value that does not exist in the tasks dictionary, an error message is displayed.
                 else:
                     print("Task number does not exist.\n")
 
+            #If the user enters -1, return to the main menu
+            elif task_num == '-1':
+                return()
+                
             #If the user enters an unknown character that does not exist in the tasks dictionary, an error message is displayed.
             else:
                 print("Invalid entry.\n")
